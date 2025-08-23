@@ -301,6 +301,7 @@ img{
     z-index: 1;
     overflow: hidden;
     min-width: 60rem;
+    min-height: 27rem;
 }
 #services .service-item::after{
     content: '';
