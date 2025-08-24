@@ -1,0 +1,14 @@
+{
+  "name": "oleh",
+  "version": "1.0.0",
+  "description": "portfolio website ",
+  "main": "app . js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oleh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
