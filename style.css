@@ -300,8 +300,6 @@ img{
     position: relative;
     z-index: 1;
     overflow: hidden;
-    min-width: 60rem;
-    min-height: 27rem;
 }
 #services .service-item::after{
     content: '';
@@ -690,8 +688,9 @@ transform: scale(1.1);
         display: none;
     }
     #services .service-bottom .service-item {
-       flex-basis: 22%;
+       flex-basis: 42%;
        margin: 1.5%;
+       min-height: 27rem;
     }
 }
 /* End Of Media Query For Destop */
